@@ -1,0 +1,16 @@
+PODS:
+  - MeridianSDK (6.1.0)
+
+DEPENDENCIES:
+  - MeridianSDK
+
+SPEC REPOS:
+  trunk:
+    - MeridianSDK
+
+SPEC CHECKSUMS:
+  MeridianSDK: c606b103aa334ebcf7636830012d346656351c9e
+
+PODFILE CHECKSUM: 0efcafb9bf7ce210879bce04c5fbc92f08c927fc
+
+COCOAPODS: 1.9.1

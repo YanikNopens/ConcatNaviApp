@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Website"; ObjectID = "K78-fH-aKr"; */
+"K78-fH-aKr.normalTitle" = "Website";
+
+/* Class = "UIButton"; normalTitle = "Map"; ObjectID = "KWH-q8-Abg"; */
+"KWH-q8-Abg.normalTitle" = "Map";
+
+/* Class = "UINavigationItem"; title = "Website"; ObjectID = "WuO-vp-1ki"; */
+"WuO-vp-1ki.title" = "Website";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "lAv-cb-ndh"; */
+"lAv-cb-ndh.title" = "Map";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "s0G-cd-tbM"; */
+"s0G-cd-tbM.title" = "Home";
